@@ -7,7 +7,7 @@ Hello World com FastAPI rodando na porta 4050.
 ### 1. Instalar Python e dependências do sistema
 
 ```bash
-sudo apt update && sudo apt install -y python3 python3-pip
+sudo apt update && sudo apt install -y git python3 python3-pip
 ```
 
 ### 2. Instalar o UV
