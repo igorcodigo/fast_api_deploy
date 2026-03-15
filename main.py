@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
 
-app = FastAPI()
+app = FastAPI(root_path="/s1")
 
 HTML = """<!DOCTYPE html>
 <html lang="pt-BR">
