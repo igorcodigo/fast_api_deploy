@@ -1,5 +1,9 @@
 # Fast API Simple
 
+<!-- repos-pai:inicio -->
+> **Repositório pai:** [`Projetos_Para_Aprendizado__DevOps`](https://github.com/igorcodigo/Projetos_Para_Aprendizado__DevOps) — pasta `Projetos_Para_Aprendizado/DevOps`
+<!-- repos-pai:fim -->
+
 Hello World com FastAPI rodando na porta 4050.
 
 ## Deploy na VPS
